@@ -8,6 +8,7 @@ The stats downloaded through the NHL API are stored in the Data.zip, so you don'
 The Data.zip DOES NOT contain the Kaggle data, so download from https://www.kaggle.com/martinellis/nhl-game-data and store all files in the Data directory. 
 
 ## File Structure
+```
 .
 ├── App
 │   └── betting_app.py
@@ -27,5 +28,5 @@ The Data.zip DOES NOT contain the Kaggle data, so download from https://www.kagg
 │   ├── modelling.ipynb
 │   └── preprocessing_pipeline.ipynb
 └── README.md
-
+```
 Enjoy!
