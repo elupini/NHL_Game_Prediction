@@ -1,7 +1,6 @@
 #Data
-*.csv
-*.xlsx
-*.sav
+Archive/
+Data/
 
 # MacOS
 .DS_Store
